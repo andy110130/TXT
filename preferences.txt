@@ -1,0 +1,5 @@
+favorite_movie - interstellar 
+favorite_series - none 
+favorite_food - dumplings
+favorite_season - summer 
+country_you_would_like_to_visit - New Zealand
