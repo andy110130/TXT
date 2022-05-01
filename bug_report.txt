@@ -1,0 +1,16 @@
+ID - 1
+Environment - Win 7 x64, Версия 98.0.4758.102 (Официальная сборка), (64 бит)
+Project - Ksendzov_Courses
+Description - Стоимость товаров для региона "Беларусь" указана в BYR 
+Build_version - -------
+Module - Main page, shopping cart, checkout, checkout, categories
+Status - new
+Author - Andrei Shkadun 
+Severity - Major
+Priority - Low
+STR - 1. Открыть станицу Aliexpress.ru 
+      2. На главной станице кликнуть на иконку с изображением "флага".
+      3. В меню меню валюта выбрать BYR (Belarusian Ruble).
+      
+Actual_result - Стоимость всех товаров отображается в BYR
+Expected_result - С 1.07.2016 в РБ проведена деноминация, межданародный формат отображение белорусского рубля BYN
